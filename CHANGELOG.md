@@ -13,3 +13,13 @@
 - Removed **Bourbon** gem at **Gemfile** and **_config.yml** -  by [Wendell Adriel](https://github.com/WendellAdriel)
 - Added **version tag** to the project -  by [Wendell Adriel](https://github.com/WendellAdriel)
 - Added **CHANGELOG** file to track important changes -  by [Wendell Adriel](https://github.com/WendellAdriel)
+
+## 1.0.6 (October 14, 2016)
+- Added `required` attribute to contact form fields - by [Onésimo Batista](https://github.com/onesimo)
+- Fixed broken Github profile link in footer - by [Wendell Adriel](https://github.com/WendellAdriel)
+
+## 1.0.7 (November 2, 2016)
+- Little fix in footer - by [Lucas Santos](https://github.com/khaosdoctor)
+- Basic adjustments for better responsiveness - by [Andréa Zambrana](https://github.com/akfzambrana)
+- Added more variables so anyone can customize almost everything in the curriculum without have to know a lot of Sass or need to make changes in the style files. - by [Andréa Zambrana](https://github.com/akfzambrana)
+- Fixed some layout bugs - by [Andréa Zambrana](https://github.com/akfzambrana)
